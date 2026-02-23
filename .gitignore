@@ -1,0 +1,16 @@
+# FFmpeg binaries (included in Release ZIP, not in repo)
+ffmpeg/*.exe
+ffmpeg/*.dll
+
+# Input/output files
+in/*
+out/*
+!in/.gitkeep
+!out/.gitkeep
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temp
+*.tmp
