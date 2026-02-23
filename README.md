@@ -10,8 +10,8 @@
 
 ### 기능
 
-- **run_mp4_to_mp4.bat** — MP4 입력 → MP4 출력 (AAC 320kbps)
-- **FAST_run_to_mkv_batch.bat** — MP4/MKV 입력 → MKV 출력 (FLAC 무손실)
+- **run_mp4_to_mp4.bat** — MP4 입력 → MP4 출력 (AAC 320kbps)  느림
+- **FAST_run_to_mkv_batch.bat** — MP4/MKV 입력 → MKV 출력 (FLAC 무손실)  가장빠름
 
 ### 주요 특징
 
@@ -71,8 +71,8 @@ Windows batch scripts for mixing multiple audio tracks from video files into a s
 
 ### Features
 
-- **run_mp4_to_mp4.bat** — MP4 input → MP4 output (AAC 320kbps)
-- **FAST_run_to_mkv_batch.bat** — MP4/MKV input → MKV output (FLAC lossless)
+- **run_mp4_to_mp4.bat** — MP4 input → MP4 output (AAC 320kbps)  SLOW
+- **FAST_run_to_mkv_batch.bat** — MP4/MKV input → MKV output (FLAC lossless)  SUPERFAST
 
 ### Highlights
 
